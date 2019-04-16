@@ -1,0 +1,11 @@
+class Menu_Items
+
+Attributes:
+name # string
+price # float
+description # string
+
+Methods:
+order # customer places an order for this item
+cook # restaurant begins cooking the item
+serve # restaurant serves cooked item to customer

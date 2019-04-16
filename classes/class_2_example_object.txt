@@ -1,0 +1,11 @@
+object jake_miller
+
+Attributes:
+name = 'Jake Miller'
+hourly_wage = 12.50
+age = 31
+
+Methods:
+jake_miller.add_employee # adds employee to list of employees
+jake_miller.give_raise(0.50) # increases hourly_wage by $0.50
+jake_miller.remove_employee # removes employee from list of employees

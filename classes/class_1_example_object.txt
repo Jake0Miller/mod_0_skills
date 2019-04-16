@@ -1,0 +1,11 @@
+object burrito_supreme
+
+Attributes:
+name = 'Burrito Supreme'
+price = 10.99
+description = 'Choice of meat with cheese, scrambled egg, veggies, smothered in green salsa'
+
+Methods:
+burrito_supreme.order # adds item to queue of items being cooked
+burrito_supreme.cook # cooks item and removes it from queue
+burrito_supreme.serve # adds item to customer's table

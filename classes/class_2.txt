@@ -1,0 +1,11 @@
+class Employees
+
+Attributes:
+name # string
+hourly_wage # float
+age # int
+
+Methods:
+add_employee # adds employee to list of employees
+give_raise # increases employee's hourly_wage attribute
+remove_employee # removes employee from list of employees
