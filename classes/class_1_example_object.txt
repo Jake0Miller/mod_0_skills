@@ -3,7 +3,7 @@ object burrito_supreme
 Attributes:
 name = 'Burrito Supreme'
 price = 10.99
-description = 'Choice of meat with cheese, scrambled egg, veggies, smothered in green salsa'
+description = 'Choice of meat with cheese, scrambled eggs, veggies, smothered in green salsa'
 
 Methods:
 burrito_supreme.order # adds item to queue of items being cooked
