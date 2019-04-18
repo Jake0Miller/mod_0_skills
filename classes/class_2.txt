@@ -1,4 +1,4 @@
-class Employees
+class Employee
 
 Attributes:
 name # string
