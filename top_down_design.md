@@ -1,10 +1,10 @@
 1. Enter the restaurant
 
-    A. Walk in the door
+    - Walk in the door
 
-        i. Open the door
+      - Open the door
 
-        ii. Step into the restaurant
+      - Step into the restaurant
 
     B. Ask to be seated
 
