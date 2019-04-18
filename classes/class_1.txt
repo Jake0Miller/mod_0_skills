@@ -1,4 +1,4 @@
-class Menu_Items
+class Menu_Item
 
 Attributes:
 name # string
