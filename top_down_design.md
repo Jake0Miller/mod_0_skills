@@ -2,17 +2,17 @@
 
     A. Walk in the door
 
-      i. Open the door
+        i. Open the door
 
-      ii. Step into the restaurant
+        ii. Step into the restaurant
 
     B. Ask to be seated
 
-      i. Find the host
+        i. Find the host
 
-      ii. Tell them how many are in your party
+        ii. Tell them how many are in your party
 
-      iii. Follow the host to your table
+        iii. Follow the host to your table
 
     C. Take your seat
 
@@ -20,11 +20,11 @@
 
     A. Read the menu
 
-      i. Pick out your favorite item
+        i. Pick out your favorite item
 
     B. Tell the server what you want to eat
 
-      i. Be polite
+        i. Be polite
 
 3. Wait for your food
 
