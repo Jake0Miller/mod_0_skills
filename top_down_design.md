@@ -6,36 +6,36 @@
 
       - Step into the restaurant
 
-    B. Ask to be seated
+    - Ask to be seated
 
-        i. Find the host
+      - Find the host
 
-        ii. Tell them how many are in your party
+      - Tell them how many are in your party
 
-        iii. Follow the host to your table
+      - Follow the host to your table
 
-    C. Take your seat
+    - Take your seat
 
 2. Order your food
 
-    A. Read the menu
+    - Read the menu
 
-        i. Pick out your favorite item
+      - Pick out your favorite item
 
-    B. Tell the server what you want to eat
+    - Tell the server what you want to eat
 
-        i. Be polite
+      - Be polite
 
 3. Wait for your food
 
-    A. Do Turing homework while you wait
+    - Do Turing homework while you wait
 
-    B. Review Turing vocabulary while you wait
+    - Review Turing vocabulary while you wait
 
 4. Eat your food
 
-    A. Put away your Turing material so you don't get food on it
+    - Put away your Turing material so you don't get food on it
 
 5. Pay your bill
 
-    A. Don't forget to leave a tip
+    - Don't forget to leave a tip
